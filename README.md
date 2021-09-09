@@ -1,2 +1,0 @@
-# exploraweb
-Sitio de explora
